@@ -1,2 +1,2 @@
-# TareasProgramaci-n
-Tareas desarrolladas en teoria de la programación...
+# TareasProgramacion
+Tareas desarrolladas en teoria de la programación 
